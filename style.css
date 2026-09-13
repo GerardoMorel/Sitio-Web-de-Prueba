@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: white;
+}
+
+header {
+    background-color: #1e1e1e;
+}
+
+nav a {
+    color: cyan;
+}
+
+button {
+    background-color: cyan;
+    color: black;
+}
