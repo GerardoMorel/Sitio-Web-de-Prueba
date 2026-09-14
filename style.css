@@ -1,17 +1,26 @@
 body {
     background-color: #121212;
-    color: white;
+    color:aliceblue
 }
 
 header {
     background-color: #1e1e1e;
 }
 
-nav a {
-    color: cyan;
+section {
+    margin: 20px;
+    padding: 20px;
 }
 
-button {
+.nav-link {
+    color: cyan;
+    text-decoration: none;
+}
+
+.boton {
+    padding: 10px;
+}
+
+.destacado {
     background-color: cyan;
-    color: black;
 }
