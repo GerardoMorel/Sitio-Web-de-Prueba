@@ -24,3 +24,14 @@ section {
 .destacado {
     background-color: cyan;
 }
+
+.tarjeta {
+    box-sizing: border-box;
+    background-color: #1e1e1e;
+    color: white;
+    padding: 20px;
+    border: 2px solid cyan;
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+}
