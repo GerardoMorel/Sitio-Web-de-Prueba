@@ -12,6 +12,11 @@ section {
     padding: 20px;
 }
 
+img{
+    width: 600px;
+    height: 450px;
+}
+
 .nav-link {
     color: cyan;
     text-decoration: none;
@@ -31,7 +36,13 @@ section {
     color: white;
     padding: 20px;
     border: 2px solid cyan;
-    margin: 20px;
     width: 300px;
     border-radius: 20px;
+}
+
+.proyectos {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
 }
